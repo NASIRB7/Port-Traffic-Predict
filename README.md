@@ -16,3 +16,12 @@ This Python script employs linear regression to predict the hour of port traffic
 
    ```bash
    pip install pandas scikit-learn
+
+## File Structure
+- port_traffic_prediction.py: The main Python script containing the code for data preprocessing, model training, and prediction.
+- Port traffic Q3 2023.CSV: CSV file containing historical port traffic data.
+
+
+## Dataset
+- The dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/nasser77/port-traffic-q3-2023
+
